@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-38:/layout/activity_edit_movie.xml",
+        "source": "com.example.movieapp-main-41:/layout/activity_edit_movie.xml"
+    },
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-38:/layout/item_movie.xml",
+        "source": "com.example.movieapp-main-41:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.movieapp-main-41:/layout/activity_main.xml"
+    }
+]

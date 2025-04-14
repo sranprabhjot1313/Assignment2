@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_description.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_description.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.movieapp-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_edit.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/menu_main_menu.xml.flat",
+        "source": "com.example.movieapp-main-41:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/layout_item_movie.xml.flat",
+        "source": "com.example.movieapp-main-41:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/layout_activity_edit_movie.xml.flat",
+        "source": "com.example.movieapp-main-41:/layout/activity_edit_movie.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.movieapp-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_info.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.movieapp-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_movie.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_movie.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_image.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_category.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_person.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_add.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_movie_placeholder.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/movie_placeholder.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_time.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_time.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "com.example.movieapp-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_delete.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/drawable_ic_people.xml.flat",
+        "source": "com.example.movieapp-main-41:/drawable/ic_people.xml"
+    },
+    {
+        "merged": "com.example.movieapp-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.movieapp-main-41:/xml/data_extraction_rules.xml"
+    }
+]
